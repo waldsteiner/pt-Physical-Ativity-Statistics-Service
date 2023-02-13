@@ -1,15 +1,15 @@
 package com.ptsports.PhysicalAtivityStatisticsService.member.dto;
 
 public class MemberDto {
-    class Post {
+    public static class Post {
 
     }
 
-    class Patch {
+    public static class Patch {
 
     }
 
-    class Response {
+    public static class Response {
 
     }
 }
