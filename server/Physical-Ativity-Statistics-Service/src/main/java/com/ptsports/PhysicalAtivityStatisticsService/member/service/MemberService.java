@@ -18,6 +18,8 @@ public interface MemberService {
     void deleteMember(Long id);
 
     // 가입한 회원인지 확인
+    Member findVerifiedMember(Long id);
 
     // 이메일 검증
+    void verifyExistsEmail(String email);
 }
