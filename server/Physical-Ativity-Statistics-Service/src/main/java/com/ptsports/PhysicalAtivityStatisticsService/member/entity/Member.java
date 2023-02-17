@@ -21,4 +21,11 @@ public class Member {
     private String email;
     private String name;
     private String phone;
+
+
+    // 선수 이력 관리를 위한 필드
+    //
+    //
+    //
+    //
 }
