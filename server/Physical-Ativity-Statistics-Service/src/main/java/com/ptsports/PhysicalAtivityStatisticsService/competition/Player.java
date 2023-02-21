@@ -8,4 +8,5 @@ public class Player {
     // 라켓
     // 우승 횟수
     // 메달 등
+    // 추가 요소
 }
