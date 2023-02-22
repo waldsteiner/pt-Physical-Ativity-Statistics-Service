@@ -9,4 +9,7 @@ public class Badminton {
     public Badminton() {
 
     }
+
+    // 배드민턴 메서드
+
 }
