@@ -11,5 +11,7 @@ public class Badminton {
     }
 
     // 배드민턴 메서드
+    public void badmintonMethod() {
 
+    }
 }

@@ -28,4 +28,5 @@ public class Member {
     // 지역
     // 급수
     // 사진
+    // 포인트
 }
