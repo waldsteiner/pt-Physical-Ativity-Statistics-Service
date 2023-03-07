@@ -1,4 +1,4 @@
-package com.ptsports.PhysicalAtivityStatisticsService.competition;
+package com.ptsports.PhysicalAtivityStatisticsService.team;
 
 public class Team {
     // 팀 이름
